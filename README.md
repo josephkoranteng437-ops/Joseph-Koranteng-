@@ -1,0 +1,2 @@
+# Joseph-Koranteng-
+C++ Midsem
