@@ -7,4 +7,5 @@ A simple attendance management system implemented in C++.
 - C++ Compiler 
 
 ## Author
-Your Name
+Joseph Koranteng 
+01240408D
